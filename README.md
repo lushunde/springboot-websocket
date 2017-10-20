@@ -1,7 +1,7 @@
 # springboot-websocket
 spring boot websocket
 
-主要是 springboot 整合websocket 的maven项目，页面只是使用的html，没有使用thymeleaf
+主要是 springboot 整合websocket 的maven项目，页面只是使用的html，没有使用 thymeleaf
 
 思考：如果springboot做rest + nginx代理前端页面 该怎样配置nginx？
 	1.nginx在1.3.X版本后已经开始支持websocket代理，关键配置
